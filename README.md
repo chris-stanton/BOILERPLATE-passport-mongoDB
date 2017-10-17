@@ -2,7 +2,7 @@
 
 
 ## Description:
-###### Passport JS MongoDB Database Boilerplate using Angular front-end, Express Server and is a full stack application.
+###### Passport JS MongoDB Database Boilerplate using Angular front-end, Express Server and is a full stack application. Boilerplate does not include ``client.js`` to ``service.service.js`` authentication checking. Authentication requests are made in controllers.
 
 
 ## Technologies Used
